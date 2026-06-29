@@ -104,7 +104,7 @@ Our portfolio is currently being crafted.
 
 Whether you're launching a startup, improving an existing product, or building something entirely new—we'd love to help.
 
-📩 **Contact:** hello@threebugsstudio.com
+📩 **Contact:** dongduong840@gmail.com
 
 ---
 
