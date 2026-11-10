@@ -47,10 +47,10 @@ Prices are published on [3bstudio.me](https://3bstudio.me), with no hidden fees.
 
 ## Stack
 
-**Frontend** Next.js · React · TypeScript · Tailwind CSS · SvelteKit
-**Backend** Go · FastAPI · NestJS · Node.js · Rust
-**Data** PostgreSQL · Supabase · Cloudinary
-**Infrastructure** Docker · GitHub Actions · Vercel · Linux VPS
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · SvelteKit
+- **Backend:** Go · FastAPI · NestJS · Node.js · Rust
+- **Data:** PostgreSQL · Supabase · Cloudinary
+- **Infrastructure:** Docker · GitHub Actions · Vercel · Linux VPS
 
 ## Work with us
 
